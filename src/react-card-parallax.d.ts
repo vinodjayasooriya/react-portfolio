@@ -6,7 +6,7 @@ declare module 'react-card-parallax' {
     tiltMaxAngleX?: number;
     tiltMaxAngleY?: number;
     offset?: number;
-    [key: string]: any; // වෙනත් ප්‍රොප්ස් එකතු කරන්න ඕනෙනම්
+    [key: string]: any; 
   }
 
   export const ParallaxCard: React.FC<ParallaxCardProps>;
