@@ -67,51 +67,7 @@ const Projects: React.FC = () => {
       image: 'https://via.placeholder.com/150',
       color: '#FF6F61'
     },
-    { 
-      id: 6, 
-      title: 'Hotel Management System', 
-      desc: 'Hotel management system with booking and pool features.', 
-      tech: 'Spring Boot, MySQL', 
-      image: 'https://via.placeholder.com/150',
-      color: '#6B7280'
-    },
-
-
-    { 
-      id: 7, 
-      title: 'VirtualTempleDashboard', 
-      desc: 'Hotel management system with booking and pool features.', 
-      tech: 'JavaScript', 
-      image: 'https://via.placeholder.com/150',
-      color: '#6B7280'
-    },
-
-    { 
-      id: 8, 
-      title: 'Springboot-with-Swagger-', 
-      desc: 'Hotel management system with booking and pool features.', 
-      tech: 'Spring Boot, MySQ', 
-      image: 'https://via.placeholder.com/150',
-      color: '#6B7280'
-    },
-
-    { 
-      id: 9, 
-      title: 'suwasetha', 
-      desc: 'Hotel management system with booking and pool features.', 
-      tech: 'Java', 
-      image: 'https://via.placeholder.com/150',
-      color: '#6B7280'
-    },
-
-    { 
-      id: 10, 
-      title: 'ExpensesTracker', 
-      desc: 'Hotel management system with booking and pool features.', 
-      tech: ' JavaScript ', 
-      image: 'https://via.placeholder.com/150',
-      color: '#6B7280'
-    },
+  
   ];
 
   // Animation variants for the heading (same as Contact)
