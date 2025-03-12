@@ -1,0 +1,12 @@
+.react-chatbot-kit-chat-container {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .react-chatbot-kit-chat-bot-message {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px 0;
+  }

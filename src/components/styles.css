@@ -1,0 +1,36 @@
+.navbar {
+    background-color: #212529; /* Dark background matching the photo */
+    padding: 1rem 2rem; /* Padding for spacing */
+    display: flex; /* Horizontal layout */
+    align-items: center; /* Vertically center items */
+  }
+  
+  .navbar-brand {
+    color: #fff; /* White text */
+    font-size: 1.5rem; /* Larger font for the brand */
+    font-weight: 500; /* Medium weight */
+    margin-right: 2rem; /* Space between brand and links */
+  }
+  
+  .nav-list {
+    list-style: none;
+    display: flex; /* Horizontal layout for links */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin: 0 1.5rem; /* Spacing between links to match the photo */
+  }
+  
+  .nav-item a {
+    color: #fff; /* White text for links */
+    text-decoration: none;
+    font-size: 1rem; /* Match the photo font size */
+    font-weight: 400; /* Normal weight */
+    transition: color 0.3s ease; /* Smooth hover effect */
+  }
+  
+  .nav-item a:hover {
+    color: #ccc; /* Light gray on hover */
+  }
