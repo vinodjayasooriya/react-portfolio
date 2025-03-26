@@ -119,7 +119,7 @@ const Projects: React.FC = () => {
     { 
       id: 4, 
       title: 'VirtualTempleDashboard', 
-      desc: 'Hotel management system with booking and pool features.', 
+      desc: 'This dashboard is for Virtaul Temple Web Application.', 
       tech: 'JavaScript', 
       color: '#808000',
       githubLink: 'https://github.com/vinodjayasooriya/VirtualTempleDashboard'
@@ -127,7 +127,7 @@ const Projects: React.FC = () => {
     { 
       id: 5, 
       title: 'Springboot-with-Swagger-', 
-      desc: 'Hotel management system with booking and pool features.', 
+      desc: 'This application is Swagger Application.', 
       tech: 'Spring Boot, MySQL', 
       color: '#CCCCFF',
       githubLink: 'https://github.com/vinodjayasooriya/Springboot-with-Swagger-'
